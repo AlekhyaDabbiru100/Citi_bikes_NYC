@@ -1,0 +1,12 @@
+pandas
+numpy
+polars
+pyarrow
+geopandas
+geodatasets
+shapely
+branca
+folium
+jinja2
+jupyter
+ipykernel
